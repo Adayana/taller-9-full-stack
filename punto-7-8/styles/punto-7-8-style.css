@@ -1,0 +1,30 @@
+    .header__navigation{
+        display: flex;
+        justify-content: left;
+        margin: 0px 100px;
+        padding: 5px 0px;
+        background-color: #ca9aca;
+        color: #fff;
+        border: 0px solid #fff; 
+        font-size: large;
+    }
+    .button--blue{
+        padding: 12px 25px;
+        color: #fff;
+        background-color: blue;
+        border-color: blue;
+        cursor: pointer;
+        display: flex;
+    }
+    
+    .lista{
+        display: flex;
+        gap: 45px;
+        list-style: none;
+        align-items: center;
+    }
+   
+  
+    
+    
+    
