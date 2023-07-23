@@ -31,4 +31,4 @@
 <img src="./public/images/Punto%207-8%20-%20Astrid%20Rodriguez.png" alt="html">
 
 <h2>Punto 9: HTML</h2>
-<img src="./public/images/Punto%209%20-%20Astrid%20Rodriguez.png>
+<img src="./public/images/Punto%209%20-%20Astrid%20Rodriguez.png" alt="html">
