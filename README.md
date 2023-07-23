@@ -6,7 +6,7 @@
 <p>Profesor: Cristian Patiño</p>
 
 <h3>Link Pagina Web<h3>
-<a href="https://adayana.github.io/taller-9-full-stack/"target>
+<a href="https://adayana.github.io/taller-9-full-stack/" target="_blank">Link página</a>
 
 <h2> Punto 1: Link figma</h2>
 
