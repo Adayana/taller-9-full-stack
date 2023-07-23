@@ -16,7 +16,7 @@
 <img src="./public/images/Ejercicio%20HTML%20-%20Astrid%20Rodriguez.png" alt="html">
 
 <h2>Punto 3: HTML</h2>
-<img src="./public/images/Punto%203%20-%20Astrid%20Rodr%C3%ADguez.png"> alt="html">
+<img src="./public/images/Punto%203%20-%20Astrid%20Rodr%C3%ADguez.png" alt="html">
 
 <h2>Punto 4: HTML</h2>
 <img src="./public/images/Punto%204%20-%20Astrid%20Rodr%C3%ADguez.png" alt="html">
